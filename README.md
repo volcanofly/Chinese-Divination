@@ -17,6 +17,7 @@ NOTE: there are three golden rules for Chinese-Divination using Yi Jing:
 3. If you already have an answer in your mind, then do not divine.
  
 
+
 To Run:
 
 Step 1: Put zhanbu.py and guaci in one folder. eg. directory/Divination/
