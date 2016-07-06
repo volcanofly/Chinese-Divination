@@ -28,4 +28,4 @@ Step 2: Open terminal. cd directory/Divination/
 
 Step 3: python ./zhanbu.py
 
-The result is only for the question you asked this time. All the results directly come from Yi Jing. If you need explanation, please find it yourself.
+The output answer is only for the question you asked this time. All the 64 possible answers are directly coming from Yi Jing. If you need explanation, please find it yourself.
