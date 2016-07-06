@@ -18,13 +18,13 @@ NOTE: there are three golden rules for Chinese-Divination using Yi Jing:
  
 
 
+To Install: Just put zhanbu.py and guaci in one folder. eg. directory/Divination/
+
 To Run:
 
-Step 1: Put zhanbu.py and guaci in one folder. eg. directory/Divination/
+Step 1: Think over what question you would like to ask. Note that you can only divine the same question once in three months.
 
-Step 2: Open terminal
+Step 2: Open terminal. cd directory/Divination/
 
-Step 3: cd directory/Divination/
-
-Step 4: python ./zhanbu.py
+Step 3: python ./zhanbu.py
 
