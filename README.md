@@ -1,7 +1,10 @@
 # Chinese-Divination
 Divination using Yi Jing
+
 Author: Bowen Li and Can Zhao
+
 Date: March, 2016
+
 
 zhanbu.py is the main script, while guaci provides with description for divination result, which is written in Chinese.
 
