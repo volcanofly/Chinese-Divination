@@ -9,12 +9,13 @@ Date: March, 2016
 zhanbu.py is the main script, while guaci provides with description for divination result, which is written in Chinese.
 
 NOTE: there are three golden rules for Chinese-Divination using Yi Jing:
+
 1. If you have little trust on it, then do not divine.
-2. 
+
 2. If you are asking an immoral question, then do not divine.
-3. 
+ 
 3. If you already have an answer in your mind, then do not divine.
-4. 
+ 
 
 To Run:
 
