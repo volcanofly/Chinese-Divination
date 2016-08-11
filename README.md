@@ -1,5 +1,5 @@
 # Chinese-Divination
-Divination using Yi Jing
+Divination using Yi Jing(I Ching)
 
 Author: Bowen Li and Can Zhao
 
